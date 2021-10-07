@@ -30,7 +30,7 @@ La requête HTTP est composé de :
     
 - Contient un body (html, xml, json ...)
     
-          Un body (Optionnel): utiliser notamment durant des requettes type POST PUT      PATCH  pour créer ou mettre à jour des donées.
+          Un body (Optionnel): utiliser notamment durant des requettes type POST PUT PATCH pour créer ou mettre à jour des donées.
     
 - Contient un code statut (404, 500, 301 ...)
 
